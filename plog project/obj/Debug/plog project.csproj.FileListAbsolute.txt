@@ -1,0 +1,240 @@
+E:\c3&&iti\plog project\plog project\bin\plog project.dll.config
+E:\c3&&iti\plog project\plog project\bin\plog project.dll
+E:\c3&&iti\plog project\plog project\bin\plog project.pdb
+E:\c3&&iti\plog project\plog project\bin\roslyn\csc.exe
+E:\c3&&iti\plog project\plog project\bin\roslyn\csc.exe.config
+E:\c3&&iti\plog project\plog project\bin\roslyn\csc.rsp
+E:\c3&&iti\plog project\plog project\bin\roslyn\csi.exe
+E:\c3&&iti\plog project\plog project\bin\roslyn\csi.exe.config
+E:\c3&&iti\plog project\plog project\bin\roslyn\csi.rsp
+E:\c3&&iti\plog project\plog project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\c3&&iti\plog project\plog project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\Microsoft.Managed.Core.targets
+E:\c3&&iti\plog project\plog project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.AppContext.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.Collections.Immutable.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.Console.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.IO.Compression.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.IO.FileSystem.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.IO.Pipes.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.Reflection.Metadata.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.Security.AccessControl.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.Security.Claims.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.Security.Principal.Windows.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.ValueTuple.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.Xml.XmlDocument.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.Xml.XPath.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\c3&&iti\plog project\plog project\bin\roslyn\vbc.exe
+E:\c3&&iti\plog project\plog project\bin\roslyn\vbc.exe.config
+E:\c3&&iti\plog project\plog project\bin\roslyn\vbc.rsp
+E:\c3&&iti\plog project\plog project\bin\roslyn\VBCSCompiler.exe
+E:\c3&&iti\plog project\plog project\bin\roslyn\VBCSCompiler.exe.config
+E:\c3&&iti\plog project\plog project\bin\Antlr3.Runtime.dll
+E:\c3&&iti\plog project\plog project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\c3&&iti\plog project\plog project\bin\Microsoft.Web.Infrastructure.dll
+E:\c3&&iti\plog project\plog project\bin\Newtonsoft.Json.dll
+E:\c3&&iti\plog project\plog project\bin\System.Web.Helpers.dll
+E:\c3&&iti\plog project\plog project\bin\System.Web.Mvc.dll
+E:\c3&&iti\plog project\plog project\bin\System.Web.Optimization.dll
+E:\c3&&iti\plog project\plog project\bin\System.Web.Razor.dll
+E:\c3&&iti\plog project\plog project\bin\System.Web.WebPages.Deployment.dll
+E:\c3&&iti\plog project\plog project\bin\System.Web.WebPages.dll
+E:\c3&&iti\plog project\plog project\bin\System.Web.WebPages.Razor.dll
+E:\c3&&iti\plog project\plog project\bin\WebGrease.dll
+E:\c3&&iti\plog project\plog project\bin\System.Web.Helpers.xml
+E:\c3&&iti\plog project\plog project\bin\System.Web.Mvc.xml
+E:\c3&&iti\plog project\plog project\bin\System.Web.Optimization.xml
+E:\c3&&iti\plog project\plog project\bin\System.Web.Razor.xml
+E:\c3&&iti\plog project\plog project\bin\System.Web.WebPages.xml
+E:\c3&&iti\plog project\plog project\bin\System.Web.WebPages.Deployment.xml
+E:\c3&&iti\plog project\plog project\bin\System.Web.WebPages.Razor.xml
+E:\c3&&iti\plog project\plog project\bin\Newtonsoft.Json.xml
+E:\c3&&iti\plog project\plog project\bin\Antlr3.Runtime.pdb
+E:\c3&&iti\plog project\plog project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\c3&&iti\plog project\plog project\obj\Debug\plog project.csprojAssemblyReference.cache
+E:\c3&&iti\plog project\plog project\obj\Debug\plog project.csproj.CoreCompileInputs.cache
+E:\c3&&iti\plog project\plog project\obj\Debug\plog project.csproj.CopyComplete
+E:\c3&&iti\plog project\plog project\obj\Debug\plog project.dll
+E:\c3&&iti\plog project\plog project\obj\Debug\plog project.pdb
+E:\c3&&iti\plog project\plog project\bin\EntityFramework.dll
+E:\c3&&iti\plog project\plog project\bin\EntityFramework.SqlServer.dll
+E:\c3&&iti\plog project\plog project\bin\EntityFramework.xml
+E:\c3&&iti\plog project\plog project\bin\EntityFramework.SqlServer.xml
+E:\iti\plog project\plog project\bin\plog project.dll.config
+E:\iti\plog project\plog project\bin\plog project.dll
+E:\iti\plog project\plog project\bin\plog project.pdb
+E:\iti\plog project\plog project\bin\roslyn\csc.exe
+E:\iti\plog project\plog project\bin\roslyn\csc.exe.config
+E:\iti\plog project\plog project\bin\roslyn\csc.rsp
+E:\iti\plog project\plog project\bin\roslyn\csi.exe
+E:\iti\plog project\plog project\bin\roslyn\csi.exe.config
+E:\iti\plog project\plog project\bin\roslyn\csi.rsp
+E:\iti\plog project\plog project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\iti\plog project\plog project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\iti\plog project\plog project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\iti\plog project\plog project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\iti\plog project\plog project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\iti\plog project\plog project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\iti\plog project\plog project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\iti\plog project\plog project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\iti\plog project\plog project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\iti\plog project\plog project\bin\roslyn\Microsoft.Managed.Core.targets
+E:\iti\plog project\plog project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\iti\plog project\plog project\bin\roslyn\System.AppContext.dll
+E:\iti\plog project\plog project\bin\roslyn\System.Collections.Immutable.dll
+E:\iti\plog project\plog project\bin\roslyn\System.Console.dll
+E:\iti\plog project\plog project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\iti\plog project\plog project\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\iti\plog project\plog project\bin\roslyn\System.IO.Compression.dll
+E:\iti\plog project\plog project\bin\roslyn\System.IO.FileSystem.dll
+E:\iti\plog project\plog project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\iti\plog project\plog project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\iti\plog project\plog project\bin\roslyn\System.IO.Pipes.dll
+E:\iti\plog project\plog project\bin\roslyn\System.Reflection.Metadata.dll
+E:\iti\plog project\plog project\bin\roslyn\System.Security.AccessControl.dll
+E:\iti\plog project\plog project\bin\roslyn\System.Security.Claims.dll
+E:\iti\plog project\plog project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\iti\plog project\plog project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\iti\plog project\plog project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\iti\plog project\plog project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\iti\plog project\plog project\bin\roslyn\System.Security.Principal.Windows.dll
+E:\iti\plog project\plog project\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\iti\plog project\plog project\bin\roslyn\System.ValueTuple.dll
+E:\iti\plog project\plog project\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\iti\plog project\plog project\bin\roslyn\System.Xml.XmlDocument.dll
+E:\iti\plog project\plog project\bin\roslyn\System.Xml.XPath.dll
+E:\iti\plog project\plog project\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\iti\plog project\plog project\bin\roslyn\vbc.exe
+E:\iti\plog project\plog project\bin\roslyn\vbc.exe.config
+E:\iti\plog project\plog project\bin\roslyn\vbc.rsp
+E:\iti\plog project\plog project\bin\roslyn\VBCSCompiler.exe
+E:\iti\plog project\plog project\bin\roslyn\VBCSCompiler.exe.config
+E:\iti\plog project\plog project\bin\Antlr3.Runtime.dll
+E:\iti\plog project\plog project\bin\EntityFramework.dll
+E:\iti\plog project\plog project\bin\EntityFramework.SqlServer.dll
+E:\iti\plog project\plog project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\iti\plog project\plog project\bin\Microsoft.Web.Infrastructure.dll
+E:\iti\plog project\plog project\bin\Newtonsoft.Json.dll
+E:\iti\plog project\plog project\bin\System.Web.Helpers.dll
+E:\iti\plog project\plog project\bin\System.Web.Mvc.dll
+E:\iti\plog project\plog project\bin\System.Web.Optimization.dll
+E:\iti\plog project\plog project\bin\System.Web.Razor.dll
+E:\iti\plog project\plog project\bin\System.Web.WebPages.Deployment.dll
+E:\iti\plog project\plog project\bin\System.Web.WebPages.dll
+E:\iti\plog project\plog project\bin\System.Web.WebPages.Razor.dll
+E:\iti\plog project\plog project\bin\WebGrease.dll
+E:\iti\plog project\plog project\bin\EntityFramework.xml
+E:\iti\plog project\plog project\bin\EntityFramework.SqlServer.xml
+E:\iti\plog project\plog project\bin\System.Web.Helpers.xml
+E:\iti\plog project\plog project\bin\System.Web.Mvc.xml
+E:\iti\plog project\plog project\bin\System.Web.Optimization.xml
+E:\iti\plog project\plog project\bin\System.Web.Razor.xml
+E:\iti\plog project\plog project\bin\System.Web.WebPages.xml
+E:\iti\plog project\plog project\bin\System.Web.WebPages.Deployment.xml
+E:\iti\plog project\plog project\bin\System.Web.WebPages.Razor.xml
+E:\iti\plog project\plog project\bin\Newtonsoft.Json.xml
+E:\iti\plog project\plog project\bin\Antlr3.Runtime.pdb
+E:\iti\plog project\plog project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\iti\plog project\plog project\obj\Debug\plog project.csprojAssemblyReference.cache
+E:\iti\plog project\plog project\obj\Debug\plog project.csproj.CoreCompileInputs.cache
+E:\iti\plog project\plog project\obj\Debug\plog project.csproj.CopyComplete
+E:\iti\plog project\plog project\obj\Debug\plog project.dll
+E:\iti\plog project\plog project\obj\Debug\plog project.pdb
+E:\projects\plog project\plog project\obj\Debug\plog project.csprojAssemblyReference.cache
+E:\projects\plog project\plog project\obj\Debug\plog project.csproj.CoreCompileInputs.cache
+E:\projects\plog project\plog project\obj\Debug\plog project.dll
+E:\projects\plog project\plog project\obj\Debug\plog project.pdb
+E:\projects\plog project\plog project\bin\plog project.dll.config
+E:\projects\plog project\plog project\bin\plog project.dll
+E:\projects\plog project\plog project\bin\plog project.pdb
+E:\projects\plog project\plog project\bin\roslyn\csc.exe
+E:\projects\plog project\plog project\bin\roslyn\csc.exe.config
+E:\projects\plog project\plog project\bin\roslyn\csc.rsp
+E:\projects\plog project\plog project\bin\roslyn\csi.exe
+E:\projects\plog project\plog project\bin\roslyn\csi.exe.config
+E:\projects\plog project\plog project\bin\roslyn\csi.rsp
+E:\projects\plog project\plog project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\projects\plog project\plog project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\projects\plog project\plog project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\projects\plog project\plog project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\projects\plog project\plog project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\projects\plog project\plog project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\projects\plog project\plog project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\projects\plog project\plog project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\projects\plog project\plog project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\projects\plog project\plog project\bin\roslyn\Microsoft.Managed.Core.targets
+E:\projects\plog project\plog project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\projects\plog project\plog project\bin\roslyn\System.AppContext.dll
+E:\projects\plog project\plog project\bin\roslyn\System.Collections.Immutable.dll
+E:\projects\plog project\plog project\bin\roslyn\System.Console.dll
+E:\projects\plog project\plog project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\projects\plog project\plog project\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\projects\plog project\plog project\bin\roslyn\System.IO.Compression.dll
+E:\projects\plog project\plog project\bin\roslyn\System.IO.FileSystem.dll
+E:\projects\plog project\plog project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\projects\plog project\plog project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\projects\plog project\plog project\bin\roslyn\System.IO.Pipes.dll
+E:\projects\plog project\plog project\bin\roslyn\System.Reflection.Metadata.dll
+E:\projects\plog project\plog project\bin\roslyn\System.Security.AccessControl.dll
+E:\projects\plog project\plog project\bin\roslyn\System.Security.Claims.dll
+E:\projects\plog project\plog project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\projects\plog project\plog project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\projects\plog project\plog project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\projects\plog project\plog project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\projects\plog project\plog project\bin\roslyn\System.Security.Principal.Windows.dll
+E:\projects\plog project\plog project\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\projects\plog project\plog project\bin\roslyn\System.ValueTuple.dll
+E:\projects\plog project\plog project\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\projects\plog project\plog project\bin\roslyn\System.Xml.XmlDocument.dll
+E:\projects\plog project\plog project\bin\roslyn\System.Xml.XPath.dll
+E:\projects\plog project\plog project\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\projects\plog project\plog project\bin\roslyn\vbc.exe
+E:\projects\plog project\plog project\bin\roslyn\vbc.exe.config
+E:\projects\plog project\plog project\bin\roslyn\vbc.rsp
+E:\projects\plog project\plog project\bin\roslyn\VBCSCompiler.exe
+E:\projects\plog project\plog project\bin\roslyn\VBCSCompiler.exe.config
+E:\projects\plog project\plog project\bin\Antlr3.Runtime.dll
+E:\projects\plog project\plog project\bin\EntityFramework.dll
+E:\projects\plog project\plog project\bin\EntityFramework.SqlServer.dll
+E:\projects\plog project\plog project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\projects\plog project\plog project\bin\Microsoft.Web.Infrastructure.dll
+E:\projects\plog project\plog project\bin\Newtonsoft.Json.dll
+E:\projects\plog project\plog project\bin\System.Web.Helpers.dll
+E:\projects\plog project\plog project\bin\System.Web.Mvc.dll
+E:\projects\plog project\plog project\bin\System.Web.Optimization.dll
+E:\projects\plog project\plog project\bin\System.Web.Razor.dll
+E:\projects\plog project\plog project\bin\System.Web.WebPages.Deployment.dll
+E:\projects\plog project\plog project\bin\System.Web.WebPages.dll
+E:\projects\plog project\plog project\bin\System.Web.WebPages.Razor.dll
+E:\projects\plog project\plog project\bin\WebGrease.dll
+E:\projects\plog project\plog project\bin\EntityFramework.xml
+E:\projects\plog project\plog project\bin\EntityFramework.SqlServer.xml
+E:\projects\plog project\plog project\bin\System.Web.Helpers.xml
+E:\projects\plog project\plog project\bin\System.Web.Mvc.xml
+E:\projects\plog project\plog project\bin\System.Web.Optimization.xml
+E:\projects\plog project\plog project\bin\System.Web.Razor.xml
+E:\projects\plog project\plog project\bin\System.Web.WebPages.xml
+E:\projects\plog project\plog project\bin\System.Web.WebPages.Deployment.xml
+E:\projects\plog project\plog project\bin\System.Web.WebPages.Razor.xml
+E:\projects\plog project\plog project\bin\Newtonsoft.Json.xml
+E:\projects\plog project\plog project\bin\Antlr3.Runtime.pdb
+E:\projects\plog project\plog project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\projects\plog project\plog project\obj\Debug\plog project.csproj.CopyComplete

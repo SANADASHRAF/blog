@@ -1,0 +1,57 @@
+﻿@model news
+@{
+    ViewBag.Title = "modify";
+}
+
+<h1>modify your data</h1>
+<form method="post" enctype="multipart/form-data" style="font-size:30px">
+  
+    <table width="100%">
+        @Html.HiddenFor(n => n.id)
+        @Html.HiddenFor(n => n.cat_id)
+        @Html.HiddenFor(n => n.user_id)
+        @Html.HiddenFor(n => n.photo)
+        <tr>
+            <td> @Html.LabelFor(n => n.id)</td>
+            <td>@Html.TextBoxFor(n => n.id, new { @class = "form-control" })</td>
+            <td>@Html.ValidationMessageFor(n => n.id)</td>
+
+        </tr>
+        <tr>
+            <td> @Html.LabelFor(n => n.titel)</td>
+            <td>@Html.TextBoxFor(n => n.titel, new { @class = "form-control" })</td>
+            <td>@Html.ValidationMessageFor(n => n.titel)</td>
+
+        </tr>
+
+
+        <tr>
+            <td> @Html.LabelFor(n => n.pref)</td>
+            <td>@Html.TextBoxFor(n => n.pref, new { @class = "form-control" })</td>
+            <td>@Html.ValidationMessageFor(n => n.pref)</td>
+
+        </tr>
+
+
+        <tr>
+            <td> @Html.LabelFor(n => n.dec)</td>
+            <td>@Html.TextAreaFor(n => n.dec, new { @class = "form-control" })</td>
+            <td>@Html.ValidationMessageFor(n => n.dec)</td>
+
+        </tr>
+
+        <tr>
+            <td> @Html.LabelFor(n => n.photo)</td>
+            <td> </td>
+            <td></td>
+
+        </tr>
+        <tr></tr>
+        <tr>
+            <td><input type="submit" value="modify" class="btn-primary" /> </td>
+            <td></td>
+            <td></td>
+
+        </tr>
+    </table>
+</form>

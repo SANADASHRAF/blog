@@ -1,0 +1,37 @@
+﻿@model List<news>
+@{
+    ViewBag.Title = "MyNews";
+}
+
+<dev:hover style="font-size:50px;padding-left:350px;color:lightslategray;box-shadow:inset">All News</dev:hover>
+<br />
+<br />
+
+@foreach (var iteam in Model)
+{
+<dev:hover style="color:lightslategray;box-shadow:inherit">
+    <dev>
+        <table width="100%">
+            <tr>
+                <td width="70%" style="border:solid">
+                    <h4 style="text-align:right;color:brown;font-weight:bolder">DEALY BLOGER</h4>
+                    <br />
+                    <dev style="font-weight:bolder;font-size:25px"> &nbsp  &nbsp @iteam.titel</dev>
+                    <br />
+                    <br />
+                    @iteam.pref  @Html.ActionLink("Read More", "readmore", new { s = iteam.id }, new { @class = "btn-primary" })
+                </td>
+                <td height="30%"><img src="@iteam.photo" width="200" height="200" /></td>
+            </tr>
+            <tr>
+                <td width="70%" style="font-size:10px;" style="border:solid"> autthor:@iteam.admeen.username catalog:@iteam.catalog.nam  date:@iteam.datetime</td>
+                <td height="30%"></td>
+            </tr>
+        </table>
+    </dev>
+</dev:hover>
+    <br />
+    
+}
+
+

@@ -1,0 +1,64 @@
+﻿@model plog_project.Models.admeen
+@{
+    ViewBag.Title = "reegister";
+}
+<div >
+
+    <form method="post" enctype="multipart/form-data">
+        @Html.HiddenFor(n => n.id)
+        <table style="margin-left:135px ;font-weight:900;color:aliceblue">
+
+
+            <tr>
+                <td>@Html.LabelFor(n => n.username)</td>
+                <td>@Html.TextBoxFor(n => n.username, new { @class = "form-control" })</td>
+                <td>@Html.ValidationMessageFor(n => n.username)</td>
+            </tr>
+            <tr>
+                <td>@Html.LabelFor(n => n.email)</td>
+                <td>@Html.TextBoxFor(n => n.email, new { @class = "form-control" })</td>
+                <td>@Html.ValidationMessageFor(n => n.email)</td>
+            </tr>
+            <tr>
+                <td>@Html.LabelFor(n => n.password)</td>
+                <td>@Html.PasswordFor(n => n.password, new { @class = "form-control" })</td>
+                <td>@Html.ValidationMessageFor(n => n.password)</td>
+            </tr>
+            @*<tr>
+                <td>@Html.LabelFor(n => n.cconfirmpassword)</td>
+                <td>@Html.PasswordFor(n => n.cconfirmpassword, new { @class = "form-control" })</td>
+                <td>@Html.ValidationMessageFor(n => n.cconfirmpassword)</td>
+            </tr>*@
+            <tr>
+                <td>@Html.LabelFor(n => n.age)</td>
+                <td>@Html.TextBoxFor(n => n.age, new { @class = "form-control" })</td>
+                <td>@Html.ValidationMessageFor(n => n.age)</td>
+            </tr>
+            <tr>
+                <td>@Html.LabelFor(n => n.address)</td>
+                <td>@Html.TextBoxFor(n => n.address, new { @class = "form-control" })</td>
+                <td>@Html.ValidationMessageFor(n => n.address)</td>
+            </tr>
+            <tr>
+                <td>@Html.LabelFor(n => n.photo)</td>
+                <td><input type="file" name="img" /></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" value="register" /></td>
+                <td>@ViewBag.status</td>
+            </tr>
+
+
+        </table>
+
+    </form>
+    </div>
+    @section scripts{
+        <script src="~/Scripts/jquery-3.3.1.js"></script>
+        <script src="~/Scripts/jquery.validate.js"></script>
+        <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    }
+

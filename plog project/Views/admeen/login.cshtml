@@ -1,0 +1,38 @@
+﻿@model admeen
+@{
+    ViewBag.Title = "login";
+}
+<body>
+
+    <marquee>
+        <h3 style="font-weight:bold;color:brown"> Welcome In Dealy Blogger </h3>
+    </marquee>
+    <br />
+    <br />
+    <div style="background-color:black;text-align:center;width:600px;height:460px;margin:0 300px;">
+        <h2 style="text-align:center;font-size:40px;color:lightseagreen;font-weight:bolder">LOGIN</h2>
+        <br />
+
+        <h4 style="text-align:center;color:lightseagreen">please enter your login and password</h4>
+        <form method="post" enctype="multipart/form-data" style="text-align:center">
+            <table style="margin-left:135px">
+                <tr>
+                    <td style="color:aqua">@Html.LabelFor(n => n.username):</td>
+                    <td>@Html.TextBoxFor(n => n.username, new { @class = "form-control" })</td>
+                    <br />
+                </tr>
+                <tr>
+                    <td style="color:aqua">@Html.LabelFor(n => n.password):</td>
+                    <td>@Html.TextBoxFor(n => n.password, new { @class = "form-control" })</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td class="text-danger" style="font-weight:bolder">@ViewBag.x</td>
+
+                </tr>
+            </table>
+            <br />
+            <dev style=""> <input type="submit" value="login" class="btn-lg" /></dev>
+        </form>
+    </div>
+</body>

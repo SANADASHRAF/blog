@@ -1,0 +1,31 @@
+﻿@model  admeen
+@{
+    ViewBag.Title = "profile";
+}
+<dev style="background-color:aqua">
+<h1 style="text-align:center;font-weight:bolder;color:cadetblue">Wellcom @Model.username</h1 >
+    <br />
+    <br />
+<table width="110%" style="font-size:20px ;font-weight:bold">
+    <tr>
+        <td>
+            <dev style="color:darkcyan">UserName : </dev> @Model.username
+            <br /><br />
+                  <dev style="color:darkcyan">Id : </dev>@Model.id
+            <br /><br />
+                  <dev style="color:darkcyan">Email : </dev>@Model.email
+            <br /><br />
+                  <dev style="color:darkcyan">Age : </dev>@Model.age
+            <br /><br />
+           <dev style="color:darkcyan">Address : </dev>@Model.address
+        </td>
+        <td>
+            <img src="~/attach/@Model.photo" width="400" height="400" />
+        </td>
+        
+    </tr>
+</table>
+    <dev> @Model.username, DO YOU WANT TO PUBLIC ANY THING IN YOUR BLOG? @Html.ActionLink("add news","add","news" ,new { Model.id},new { @class="btn-link"}) </dev>
+    </dev>
+
+

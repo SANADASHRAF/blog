@@ -1,0 +1,65 @@
+﻿@model news
+@{
+    ViewBag.Title = "add";
+}
+<h1 style="font-weight:bold;margin:0px 450px;color:cadetblue">Add_Your_News</h1>
+<br />
+<div style="margin:0 450px;background-color:darkgray;height:500px;width:285px">
+
+    <form method="post" enctype="multipart/form-data" style="font-size:30px">
+        @Html.HiddenFor(n => n.id)
+        <table width="100%" style="margin-right:600px;">
+
+
+            <tr>
+
+                <td><dev style="font-weight:bolder">Titel</dev> @Html.TextBoxFor(n => n.titel, new { @class = "form-control" })</td>
+                <td>@Html.ValidationMessageFor(n => n.titel)</td>
+
+            </tr>
+            <tr>
+
+                <td><dev style="font-weight:bolder">Pref</dev> @Html.TextBoxFor(n => n.pref, new { @class = "form-control" })</td>
+                <td>@Html.ValidationMessageFor(n => n.pref)</td>
+
+            </tr>
+
+            <tr>
+
+                <td><dev style="font-weight:bolder">Dec</dev> @Html.TextAreaFor(n => n.dec, new { @class = "form-control" })</td>
+                <td>@Html.ValidationMessageFor(n => n.dec)</td>
+
+            </tr>
+
+            <tr>
+
+                <td><dev style="font-weight:bolder">photo</devstyle="font-weight:bolder"> <input type="file" name="imag" /></td>
+                <td></td>
+
+            </tr>
+            <tr></tr>
+            <tr>
+
+                <td><dev style="font-weight:bolder">Catalog_Name</dev> @Html.DropDownListFor(n => n.cat_id, (SelectList)ViewBag.catigory, new { @class = "form-control" })</td>
+                <td>@Html.ValidationMessageFor(n => n.cat_id)</td>
+
+            </tr>
+
+
+        </table>
+        <br />
+        
+      <input type="submit" value="Add" class="btn-primary" style="margin:0 100px;" /> 
+    </form>
+   
+  
+</div>
+    @section scripts{
+
+        <script src="~/Scripts/jquery-3.3.1.js"></script>
+        <script src="~/Scripts/jquery.validate.js"></script>
+        <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    }
+
+
+

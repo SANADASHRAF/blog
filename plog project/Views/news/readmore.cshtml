@@ -1,0 +1,23 @@
+﻿@model news
+@{
+    ViewBag.Title = "readmore";
+}
+
+<h2 style="text-align:center">read more about your new</h2>
+
+<dev style="text-align:center;font-size:40px;color:darkslategray ;border:dashed">@Model.titel</dev>
+<dev>
+    <table width="100%">
+        <tr>
+            <td width="70%">@Model.pref</td>
+            <td height="30%"><img src="@Model.photo" width="200" height="200" /></td>
+        </tr>
+        <tr>
+            <td width="70%">@Model.dec</td>
+            <td height="30%"></td>
+        </tr>
+        <tr>
+            <td width="70%" style="font-size:10px;">catalog:@Model.catalog  date:@Model.datetime</td>
+            <td height="30%"></td>
+        </tr>
+    </table>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plog project", "plog project\plog project.csproj", "{E3392EF7-51A2-4502-9979-98EF71F28BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3392EF7-51A2-4502-9979-98EF71F28BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3392EF7-51A2-4502-9979-98EF71F28BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3392EF7-51A2-4502-9979-98EF71F28BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3392EF7-51A2-4502-9979-98EF71F28BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {903DB512-2382-442E-B5A5-8E20351A71FD}
+	EndGlobalSection
+EndGlobal
